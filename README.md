@@ -2,7 +2,7 @@
 
 **A Two Stage Cooperative Heterogeneous Parallel Evolutionary Algorithm for Large-Scale Bi-objective Vehicle Routing Problem With Time Windows Under Fleet-Size Preferences**
 
-Zhiwei Xu, Pingshan Wu, Kai Zhang, Quanyu Zhang, Yiran Huang, Juanjuan He, Miqing Li, and Javier Del Ser..
+Zhiwei Xu, Pingshan Wu, Kai Zhang, Quanyu Zhang, Yiran Huang, Juanjuan He, Miqing Li, and Javier Del Ser.
 
 ## Usage
 
