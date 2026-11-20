@@ -1,14 +1,8 @@
-# T-ITS TSCHPEA
+# TSCHPEA
 
 **A Two Stage Cooperative Heterogeneous Parallel Evolutionary Algorithm for Large-Scale Bi-objective Vehicle Routing Problem With Time Windows Under Fleet-Size Preferences**
 
-Zhiwei Xu, Pingshan Wu, Kai Zhang, Quanyu Zhang, Yiran Huang, Juanjuan He, Miqing Li, and Javier Del Ser. Corresponding author: Kai Zhang.
-
-## Highlights
-
-- TSCHPEA first reduces fleet size, then minimizes travel distance at the smallest fleet size found.
-- Parallel populations use different initial routes, constraint penalties, and search neighborhoods to explore alternative customer assignments.
-- The populations share solutions with low constraint violation during fleet reduction and feasible elite solutions during distance refinement.
+Zhiwei Xu, Pingshan Wu, Kai Zhang, Quanyu Zhang, Yiran Huang, Juanjuan He, Miqing Li, and Javier Del Ser..
 
 ## Usage
 
